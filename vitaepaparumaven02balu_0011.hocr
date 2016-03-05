@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./vitaepaparumaven02balu_0011.png"; bbox 0 0 2083 3458; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 270 1243 1604 1592">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 270 1243 1604 1592">
+     <span class='ocr_line' id='line_1_1' title="bbox 795 1243 1083 1376; baseline 0.003 -1"><span class='ocrx_word' id='word_1_1' title='bbox 795 1243 1083 1376; x_wconf 68' lang='lat' dir='ltr'><strong>vlTA&#39;E</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 270 1499 1604 1592; baseline 0.001 -3"><span class='ocrx_word' id='word_1_2' title='bbox 270 1499 749 1590; x_wconf 84' lang='lat' dir='ltr'><strong>PAPARUM</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 811 1499 1604 1592; x_wconf 81' lang='lat' dir='ltr'><strong>AVENIONENSIUM</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

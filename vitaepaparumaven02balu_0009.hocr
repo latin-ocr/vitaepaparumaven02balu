@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./vitaepaparumaven02balu_0009.png"; bbox 0 0 2083 3458; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 331 1602 1757 1857">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 331 1602 1757 1857">
+     <span class='ocr_line' id='line_1_1' title="bbox 543 1602 1545 1670; baseline 0.002 -16"><span class='ocrx_word' id='word_1_1' title='bbox 543 1602 808 1670; x_wconf 62' lang='lat' dir='ltr'>Digitized</span> <span class='ocrx_word' id='word_1_2' title='bbox 837 1602 906 1670; x_wconf 82' lang='lat' dir='ltr'>by</span> <span class='ocrx_word' id='word_1_3' title='bbox 929 1602 1025 1656; x_wconf 72' lang='lat' dir='ltr'>the</span> <span class='ocrx_word' id='word_1_4' title='bbox 1055 1602 1288 1656; x_wconf 70' lang='lat' dir='ltr'>internet</span> <span class='ocrx_word' id='word_1_5' title='bbox 1312 1602 1545 1656; x_wconf 71' lang='lat' dir='ltr'><strong>Archive</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 646 1696 1440 1764; baseline 0 -16"><span class='ocrx_word' id='word_1_6' title='bbox 646 1696 692 1748; x_wconf 79' lang='lat' dir='ltr'>in</span> <span class='ocrx_word' id='word_1_7' title='bbox 719 1696 873 1750; x_wconf 81' lang='lat'>2009</span> <span class='ocrx_word' id='word_1_8' title='bbox 898 1696 1020 1750; x_wconf 71' lang='lat' dir='ltr'>with</span> <span class='ocrx_word' id='word_1_9' title='bbox 1046 1696 1277 1764; x_wconf 71' lang='lat' dir='ltr'>fundinq</span> <span class='ocrx_word' id='word_1_10' title='bbox 1302 1696 1440 1750; x_wconf 80' lang='lat' dir='ltr'>from</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 331 1788 1757 1857; baseline 0.001 -16"><span class='ocrx_word' id='word_1_11' title='bbox 331 1789 543 1843; x_wconf 78' lang='lat' dir='ltr'>Boston</span> <span class='ocrx_word' id='word_1_12' title='bbox 574 1789 788 1857; x_wconf 71' lang='lat' dir='ltr'>Library</span> <span class='ocrx_word' id='word_1_13' title='bbox 813 1788 1175 1843; x_wconf 79' lang='lat' dir='ltr'>Consortium</span> <span class='ocrx_word' id='word_1_14' title='bbox 1205 1789 1463 1843; x_wconf 68' lang='lat' dir='ltr'>member</span> <span class='ocrx_word' id='word_1_15' title='bbox 1490 1789 1757 1843; x_wconf 69' lang='lat' dir='ltr'>Libraries</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 169 3234 1915 3302">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 169 3234 1915 3302">
+     <span class='ocr_line' id='line_1_4' title="bbox 169 3234 1915 3302; baseline 0.001 -16"><span class='ocrx_word' id='word_1_16' title='bbox 169 3234 1915 3302; x_wconf 66' lang='lat' dir='ltr'>http:sswwwarchive.orqsdetailssvitaepaparumavenozbalu</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
